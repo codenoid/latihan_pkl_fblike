@@ -1,0 +1,9 @@
+.container {
+	max-width: 400px;
+	 margin: 0px auto;
+	 border: 1px solid grey;
+}
+.container .item {
+	display: block;
+	margin: 5px 0px;
+}
